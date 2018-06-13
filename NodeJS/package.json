@@ -1,0 +1,13 @@
+{
+  "name": "neil.jones-voxelcloud",
+  "version": "0.0.0",
+  "description": "Demo",
+  "main": "app.js",
+  "author": "Neil Jones",
+  "dependencies": {
+    "express": "~4.6.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
